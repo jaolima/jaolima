@@ -1,5 +1,5 @@
 ### 
-<h2> Hi there 👋! you can call me Lima! <img src="https://www.fightersgeneration.com/nx8/char/marco-metalslug-spaceship.gif" width="50"></h2>
+<h2> Welcome! you can call me Lima! <img src="https://www.fightersgeneration.com/nx8/char/marco-metalslug-spaceship.gif" width="50"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anajuliabit/)](https://www.linkedin.com/in/joaolima2/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@anajuliabit)](https://medium.com/@joaolimafonseca2)
