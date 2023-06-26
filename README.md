@@ -1,5 +1,5 @@
 ### 
-<h2> Hi there 👋! you can call me Lima! <img src="https://media.tenor.com/5EkbejWP-o0AAAAC/metal-slug-ready.gif" width="50"></h2>
+<h2> Hi there 👋! you can call me Lima! <img src="https://tenor.com/pt-BR/view/metalslug-gif-7308994" width="50"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anajuliabit/)](https://www.linkedin.com/in/joaolima2/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@anajuliabit)](https://medium.com/@joaolimafonseca2)
