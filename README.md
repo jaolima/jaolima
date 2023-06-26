@@ -1,4 +1,9 @@
-### Hi there 👋
+### 
+<h2> Hi there 👋! you can call me Lima! <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50"></h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anajuliabit/)](https://www.linkedin.com/in/joaolima2/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@anajuliabit)](https://medium.com/@joaolimafonseca2)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a0a0coelho0@gmailcom)](mailto:joaolimafonseca2@gmail.com)
 
 <!--
 **jaolima/jaolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
